@@ -1,0 +1,2 @@
+server: test.c
+	gcc test.c -o server -lpthread
